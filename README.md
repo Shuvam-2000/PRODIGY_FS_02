@@ -26,7 +26,7 @@ Built using **React**, **Node.js**, **Express**, and **MongoDB**, it supports **
 ### 👷 Employee Panel
 - Employee login
 - View personal profile
-- Update profile info (e.g., phone, position, department)
+- Update profile info (e.g., phone, name, email)
 - Secure logout
 
 ### 🌐 Common Functionality
